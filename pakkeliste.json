@@ -1,0 +1,28 @@
+{
+    "79a1461a-ae55-4f1b-b67f-c8171f8ba80c": {
+        "name": "Grilltur",
+        "items": [
+            "Sovepose",
+            "Tennvæske",
+            "2 flasker Captain Morgan",
+            "2 flasker Cola Z",
+            "1 pakke grillpølser",
+            "Lomper"
+        ]
+    },
+    "ae6c8371": {
+        "name": "Ting jeg må ta med på skolen",
+        "items": [
+            "skrivesaker",
+            "notatbok",
+            "kaffekopp",
+            "energidrikke"
+        ]
+    },
+    "5d4e5c37": {
+        "name": "test_list1",
+        "items": [
+            "[1,2,3]"
+        ]
+    }
+}
